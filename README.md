@@ -25,10 +25,10 @@ Source code is private; architecture and code walkthrough available on request.
 
 ## Tech
 
-**Languages:** Go, TypeScript, SQL
-**Data:** PostgreSQL (incl. pgvector), Elasticsearch, Kafka, MongoDB, Redis
-**Infra:** Docker, Caddy, Tailscale, self-hosted (Mac Mini), VPS, GitHub Actions, Prometheus
-**AI:** LLM integration (Claude API, OpenRouter), local models (Ollama), MCP servers, evals
+- **Languages:** Go, TypeScript, SQL
+- **Data:** PostgreSQL (incl. pgvector), Elasticsearch, Kafka, MongoDB, Redis
+- **Infra:** Docker, Caddy, Tailscale, self-hosted (Mac Mini), VPS, GitHub Actions, Prometheus
+- **AI:** LLM integration (Claude API, OpenRouter), local models (Ollama), MCP servers, evals
 
 ## Contact
 
