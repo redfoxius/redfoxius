@@ -1,4 +1,4 @@
-# Hi, I'm Oleksander 👋
+# Hi, I'm Oleksandr Kolomoiets 👋
 
 Backend developer focused on data infrastructure — **Go, Elasticsearch, Kafka, SQL**.
 I build products end-to-end: from data model and architecture to deployment on my own infrastructure.
